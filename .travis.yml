@@ -1,0 +1,8 @@
+language: node_js
+deploy:
+  provider: npm
+  email: paukan.control@gmail.com
+  api_key:
+    secure: G4wQ5GhqCbtVvFzyqFYvvFo4MWBo6Qgirc43NyX+bQQGzEtfpIGD9d7sIFIZMe7wCBLT8LvgyNwxMQmeA4DXJbTp4H2koht8/4yc/iNsKLxaavgrhex/Clh252v1rmRKOQhTv3/78UlGc5TdGGGWUpDR3xH+zV8XUHk2AhBusT4=
+  on:
+    repo: paukan-org/scenario

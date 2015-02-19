@@ -1,0 +1,20 @@
+{
+  "name": "paukan-scenario",
+  "version": "0.0.1",
+  "description": "Run predefined scenarios on external events",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:paukan-org/scenario.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+      "mocha": "^2.1.0"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --bail"
+  },
+  "homepage": "https://github.com/paukan-org/scenario",
+  "author": "Andrey Afoninskiy <vkfont@gmail.com>",
+  "license": "Apache"
+}
