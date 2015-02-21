@@ -7,9 +7,10 @@
     "url": "git@github.com:paukan-org/scenario.git"
   },
   "dependencies": {
+    "paukan-core": "0.0.5"
   },
   "devDependencies": {
-      "mocha": "^2.1.0"
+    "mocha": "^2.1.0"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha --bail"
