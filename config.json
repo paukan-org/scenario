@@ -1,4 +1,5 @@
 {
     "id": "scenario",
-    "scripts": "scripts"
+    "scripts": "scripts",
+    "replyTimeout": 2000
 }
